@@ -72,7 +72,7 @@ bash setup.sh
 
 ```text
 01-navigation-basics     → ls, cd, cat
-02-paths                → pwd, relative vs absolute paths
+02-paths                → working with paths (ls, cat without cd)
 03-files                → mkdir, touch, cp, mv, rm
 04-search               → find, grep
 05-permissions          → chmod, chown
