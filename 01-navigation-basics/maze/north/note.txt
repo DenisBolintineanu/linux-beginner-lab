@@ -1,0 +1,2 @@
+You went north.
+This path does not look very promising.
