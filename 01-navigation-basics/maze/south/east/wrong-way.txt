@@ -1,2 +1,5 @@
 Wrong way.
 The secret is not here.
+
+Hint: You can go back with:
+cd ..

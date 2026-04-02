@@ -38,6 +38,8 @@ You are currently in:
 
 Start exploring from here.
 
+Use `cd maze` to move into the directory called "maze".
+
 ---
 
 ## 🧠 Hints
@@ -45,6 +47,8 @@ Start exploring from here.
 Use `ls` to see what is inside a directory.
 
 Use `cd foldername` to move into a directory.
+
+Use cd .. to go back if you reached a dead end.
 
 Use `cat filename` to read a file.
 

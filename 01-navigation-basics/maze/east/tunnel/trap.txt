@@ -1,2 +1,5 @@
 This tunnel leads nowhere useful.
 Try a different direction.
+
+Hint: You can go back with:
+cd ..

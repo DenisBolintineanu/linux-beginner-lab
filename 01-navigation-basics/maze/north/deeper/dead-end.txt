@@ -1,2 +1,5 @@
 Dead end.
 Go back and try another path.
+
+Hint: You can go back with:
+cd ..
